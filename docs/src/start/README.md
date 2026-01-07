@@ -1,5 +1,5 @@
 ---
-next: /about/sponsor/
+next: /about/sponsor
 icon: signs-post
 ---
 <!-- markdownlint-disable MD045 -->
