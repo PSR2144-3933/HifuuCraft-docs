@@ -41,6 +41,7 @@ export default sidebar({
       children: [
         "dominion.md",
         "aurelium.md",
+        "slimefun/readme.md"
       ]
     },
     // {

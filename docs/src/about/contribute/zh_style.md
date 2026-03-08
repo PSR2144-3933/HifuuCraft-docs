@@ -73,6 +73,15 @@
 + 可以查询 [术语表](../glossary.md) 来找到相关信息
 ```
 
+## 相关资料
+
+文档支持的 `icon`：<https://fontawesome.com/v6/search?ic=free-collection>  
+`vuepress-theme-hope`：<https://theme-hope.vuejs.press/guide/>
+
+## 注意事项
+
+本站中1.21粘液科技部分采用 CC-BY-NC-SA 进行许可。这些页面的内容不应该被复制到其他由 CC-BY-SA 进行许可的部分，除非目标页面也由 CC-BY-NC-SA 进行许可。如果需要为特定页面修改许可，建议使用 `config.ts` 或 `theme.ts` 修改页脚中 `copyright` 部分，并事先与旋律以及其他贡献者沟通。
+
 ## 参考资料
 
 1. <https://stdrc.cc/style-guides/chinese>
