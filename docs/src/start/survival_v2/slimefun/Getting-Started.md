@@ -4,8 +4,6 @@
 你可能不知道从哪里开始。
 如果你也是这么想的，恭喜你，你来对地方了！
 
-本教程假设你已经安装了 Slimefun。否则请先阅读[如何安装 Slimefun](/Installing-Slimefun)。
-
 ## 1. Slimefun 指南 {#1-slimefun-guide}
 
 在游玩的过程中，你需要的第一件物品就是 Slimefun 指南。

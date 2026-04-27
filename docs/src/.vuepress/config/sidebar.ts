@@ -14,8 +14,8 @@ export default sidebar({
     {
       text: '1.12生存',
       icon: 'lightbulb',
-      link: "/start/survival_old/",
-      prefix: "/start/survival_old/",
+      link: "/start/survival_v1/",
+      prefix: "/start/survival_v1/",
       collapsible: true,
       children: [
         'mcmmo.md',
@@ -35,13 +35,16 @@ export default sidebar({
     {
       text: "1.21生存",
       icon: "flask-vial",
-      link: "/start/survival_new/",
-      prefix: "/start/survival_new/",
+      link: "/start/survival_v2/",
+      prefix: "/start/survival_v2/",
       collapsible: true,
       children: [
         "dominion.md",
         "aurelium.md",
-        "slimefun/readme.md"
+        {
+          text: '粘液科技',
+          link: "slimefun/",
+        },
       ]
     },
     // {
@@ -55,6 +58,7 @@ export default sidebar({
       link: '/about/',
     },
   ],
+
   '/about': [
     {
       text: '贡献指南',
@@ -70,5 +74,26 @@ export default sidebar({
       collapsible: false,
       link: '/about/sponsor.html',
     },
+  ],
+
+  '/start/survival_v2/slimefun': [
+    {
+      text: "← 回到1.21生存主目录",
+      link: "/start/survival_v2/",
+      collapsible: false,
+      prefix: "/start/survival_v2/slimefun/",
+    },
+
+    '',
+    {
+      text: "总览",
+      children: [
+        'Getting-Started.md',
+        'Commands.md',
+        'Common-Issues.md',
+      ]
+    },
+    'catalog.md'
+
   ],
 });

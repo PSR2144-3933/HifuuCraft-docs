@@ -42,7 +42,7 @@ ___
 
 ### 1.12.2生存
 
-<sup>主条目：[1.12.2生存服](./survival_old/readme.md)</sup>
+<sup>主条目：[1.12.2生存服](./survival_v1/readme.md)</sup>
 
 ![1.12主城](./image/ymd-1.12-main-city.webp )
 

@@ -16,7 +16,7 @@
 
 :::info
 
-另请参阅：[常见问题](/Common-Issues)
+另请参阅：[常见问题](./Common-Issues)
 
 :::
 
