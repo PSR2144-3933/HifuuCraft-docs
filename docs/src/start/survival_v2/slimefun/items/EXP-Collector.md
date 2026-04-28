@@ -1,8 +1,8 @@
 # 经验收集器 {#exp-collector}
 
-经验收集器是一种[电力机器](/Electric-Machines#machines)。它可以收集周围的经验球。
+经验收集器是一种[电力机器](./Electric-Machines#machines)。它可以收集周围的经验球。
 
-需要提供[学识之瓶](/Flask-of-Knowledge)才能让其工作。
+需要提供[学识之瓶](./Flask-of-Knowledge)才能让其工作。
 
 ## 等级 {#exp-collector-tiers}
 

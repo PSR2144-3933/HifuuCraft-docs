@@ -1,10 +1,10 @@
 # 学识巨著 {#tome-of-knowledge-sharing}
 
-学识巨著是[魔法道具](/Magical-Gadgets)分类中的物品。
+学识巨著是[魔法道具](./Magical-Gadgets)分类中的物品。
 
 ## 获取 {#obtaining}
 
-学识巨著可以在[魔法工作台](/Magic-Workbench)中制作。
+学识巨著可以在[魔法工作台](./Magic-Workbench)中制作。
 
 ## 用途 {#usage}
 

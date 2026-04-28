@@ -1,6 +1,6 @@
 # 附魔书整合机 {#book-binder}
 
-附魔书整合机是一个[电力机器](/Electric-Machines#machines)。它可以合并不同附魔书上的附魔，与铁砧类似。
+附魔书整合机是一个[电力机器](./Electric-Machines#machines)。它可以合并不同附魔书上的附魔，与铁砧类似。
 
 ## 等级 {#book-binder-tiers}
 

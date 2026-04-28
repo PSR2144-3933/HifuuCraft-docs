@@ -1,10 +1,10 @@
 # GPS 发射器 {#gps-transmitter}
 
-GPS 发射器是构建 [GPS 网络](/GPS)的基础。
+GPS 发射器是构建 [GPS 网络](./GPS)的基础。
 
 ## 获取 {#obtaining}
 
-GPS 发射器可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+GPS 发射器可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用与机制 {#usage-and-mechanics}
 

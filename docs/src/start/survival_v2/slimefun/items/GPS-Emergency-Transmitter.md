@@ -1,10 +1,10 @@
 # GPS 应急发射器
 
-GPS 应急发射器是 [GPS](/GPS) 分类中的物品。
+GPS 应急发射器是 [GPS](./GPS) 分类中的物品。
 
 ## 获取 {#obtaining}
 
-GPS 应急发射器可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+GPS 应急发射器可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

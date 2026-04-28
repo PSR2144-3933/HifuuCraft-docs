@@ -6,11 +6,11 @@
 
 :::
 
-合成机智能交互接口是[货运管理](/Cargo-Management)分类中的物品，可以根据合成机配方控制输入物品的数量。
+合成机智能交互接口是[货运管理](./Cargo-Management)分类中的物品，可以根据合成机配方控制输入物品的数量。
 
 ## 获取 {#obtaining}
 
-合成机智能交互接口可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+合成机智能交互接口可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

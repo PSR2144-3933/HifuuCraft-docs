@@ -5,24 +5,24 @@
 
 ## 获取 {#obtaining}
 
-你可以在[冶炼炉](/Smeltery)或[电动铸锭机](/Electric-Ingot-Factory)中冶炼[铁粉](/Iron-Dust)来获得铁锭。
+你可以在[冶炼炉](./Smeltery)或[电动铸锭机](./Electric-Ingot-Factory)中冶炼[铁粉](./Iron-Dust)来获得铁锭。
 
 ## 用途 {#usage}
 
-除了用于原有的 Minecraft 配方，铁锭可以在[电力打粉机](/Electric-Ingot-Pulverizer)中粉碎成[铁粉](/Iron-Dust)。
+除了用于原有的 Minecraft 配方，铁锭可以在[电力打粉机](./Electric-Ingot-Pulverizer)中粉碎成[铁粉](./Iron-Dust)。
 
-另外，铁锭可用于冶炼下列[合金](/Ingots#alloys):
+另外，铁锭可用于冶炼下列[合金](./Ingots#alloys):
 
-* [钴锭](/Cobalt-Ingot)
-* [大马士革钢锭](/Damascus-Steel-Ingot)
-* [硅铁](/Ferrosilicon)
-* [钢锭](/Steel-Ingot)
+* [钴锭](./Cobalt-Ingot)
+* [大马士革钢锭](./Damascus-Steel-Ingot)
+* [硅铁](./Ferrosilicon)
+* [钢锭](./Steel-Ingot)
 
 铁锭也可用来合成以下物品与机器:
 
-* [古代符文 [闪电]](/Ancient-Runes)
-* [方块放置机](/Block-Placer)
-* [电动淘金机 (II)](/Electric-Gold-Pan)
-* [便携垃圾箱](/Portable-Dustbin)
-* [史莱姆套装](/Magical-Armor#leather--iron-slime-armor)
-* [夹板](/Medical-Supplies)
+* [古代符文 [闪电]](./Ancient-Runes)
+* [方块放置机](./Block-Placer)
+* [电动淘金机 (II)](./Electric-Gold-Pan)
+* [便携垃圾箱](./Portable-Dustbin)
+* [史莱姆套装](./Magical-Armor#leather--iron-slime-armor)
+* [夹板](./Medical-Supplies)

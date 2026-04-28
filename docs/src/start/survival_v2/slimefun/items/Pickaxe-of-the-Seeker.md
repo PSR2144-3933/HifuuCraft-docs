@@ -1,12 +1,12 @@
 # 寻矿镐 {#pickaxe-of-the-seeker}
 
-寻矿镐是 Slimefun 的[工具](/Tools)之一。
+寻矿镐是 Slimefun 的[工具](./Tools)之一。
 
 它是一把未附魔的钻石镐，可以帮你定位附近的矿石。
 
 ## 获取 {#obtaining}
 
-寻矿镐可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+寻矿镐可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

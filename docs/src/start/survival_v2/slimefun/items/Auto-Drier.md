@@ -1,6 +1,6 @@
 # 自动烘干机 {#auto-drier}
 
-自动烘干机是一种[电力机器](/Electric-Machines#machines)。它将物品烘干成为另一种物品。  
+自动烘干机是一种[电力机器](./Electric-Machines#machines)。它将物品烘干成为另一种物品。  
 它也可以把熟肉烘干成对应的肉干。
 
 如果你想了解所有的配方，请查看游戏内的 Slimefun 指南。

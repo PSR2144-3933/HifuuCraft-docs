@@ -1,6 +1,6 @@
 # 全息投影仪 {#hologram-projector}
 
-全息投影仪是一种[科技工具](/Technical-Gadgets)。
+全息投影仪是一种[科技工具](./Technical-Gadgets)。
 
 你不需要给全息投影仪供电，就能使用它。
 

@@ -1,6 +1,6 @@
 # 电力喷气背包 {#jetpacks}
 
-电力喷气背包是一种[科技工具](/Technical-Gadgets)。需要在[充电台](/Charging-Bench)中充电后才能使用。
+电力喷气背包是一种[科技工具](./Technical-Gadgets)。需要在[充电台](./Charging-Bench)中充电后才能使用。
 
 电力喷气背包使用电力进行飞行。将喷气背包放入胸甲栏，然后按下Shift即可使用。
 

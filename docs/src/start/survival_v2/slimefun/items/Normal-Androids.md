@@ -1,15 +1,15 @@
 # 可编程式机器人（普通）{#normal-androids}
 
-普通机器人用于合成特定类型的[机器人](/Androids)。
+普通机器人用于合成特定类型的[机器人](./Androids)。
 
 ## 获取 {#obtaining}
 
-普通机器人可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+普通机器人可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 
 普通机器人只能执行移动指令。  
-机器人需要燃料才能工作，你必须给机器人准备好[指定的燃料](/Normal-Androids#power-source)。
+机器人需要燃料才能工作，你必须给机器人准备好[指定的燃料](./Normal-Androids#power-source)。
 
 ## 等级 {#tiers}
 

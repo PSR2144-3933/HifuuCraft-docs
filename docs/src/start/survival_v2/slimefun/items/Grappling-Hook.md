@@ -1,10 +1,10 @@
 # 抓钩 {#grappling-hook}
 
-抓钩是一个非常好用的[工具](/Tools)，可以获得高机动性，到达难以抵达的地方。
+抓钩是一个非常好用的[工具](./Tools)，可以获得高机动性，到达难以抵达的地方。
 
 ## 获取 {#obtaining}
 
-抓钩可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+抓钩可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

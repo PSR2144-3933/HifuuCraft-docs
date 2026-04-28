@@ -1,12 +1,12 @@
 # 矿脉镐 {#pickaxe-of-vein-mining}
 
-矿脉镐是 Slimefun 的[工具](/Tools)之一。
+矿脉镐是 Slimefun 的[工具](./Tools)之一。
 
 它是一把未附魔的钻石镐，可以一次性挖掘整个矿脉的矿石。
 
 ## 获取 {#obtaining}
 
-矿脉镐可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+矿脉镐可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

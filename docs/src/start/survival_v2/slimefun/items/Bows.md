@@ -1,6 +1,6 @@
 # 弓 {#bows}
 
-Slimefun 的[武器](/Weapons)分类中增加了三种弓：灵魂绑定弓、爆裂之弓、冰封之弓。
+Slimefun 的[武器](./Weapons)分类中增加了三种弓：灵魂绑定弓、爆裂之弓、冰封之弓。
 
 它们都有不同的属性，并且可以像其他弓一样附魔。
 
@@ -10,7 +10,7 @@ Slimefun 的[武器](/Weapons)分类中增加了三种弓：灵魂绑定弓、�
 
 :::info 另请参见
 
-[灵魂绑定武器](/Soulbound-Weapons)
+[灵魂绑定武器](./Soulbound-Weapons)
 
 :::
 

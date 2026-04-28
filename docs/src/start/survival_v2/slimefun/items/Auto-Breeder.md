@@ -1,8 +1,8 @@
 # 自动喂食机 {#auto-breeder}
 
-自动喂食机是一种[电力机器](/Electric-Machines#machines)。它可以自动喂养最多 2 只动物。
+自动喂食机是一种[电力机器](./Electric-Machines#machines)。它可以自动喂养最多 2 只动物。
 
-该机器依赖由[食品加工机](/Food-Fabricator)生产的[有机食物](/Miscellaneous-Items)。
+该机器依赖由[食品加工机](./Food-Fabricator)生产的[有机食物](./Miscellaneous-Items)。
 
 自动喂食机遵循原版的喂养机制。
 

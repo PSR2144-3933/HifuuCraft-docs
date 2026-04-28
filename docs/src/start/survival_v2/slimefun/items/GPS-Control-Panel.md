@@ -1,10 +1,10 @@
 # GPS 控制面板 {#gps-control-panel}
 
-GPS 控制面板是 [GPS](/GPS) 分类中的可放置工具之一。
+GPS 控制面板是 [GPS](./GPS) 分类中的可放置工具之一。
 
 ## 获取 {#obtaining}
 
-GPS 控制面板可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+GPS 控制面板可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

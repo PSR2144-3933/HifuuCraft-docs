@@ -1,10 +1,10 @@
 # 便携垃圾箱 {#portable-dustbin}
 
-便携垃圾箱是[有用的物品](/Items)分类中的物品。
+便携垃圾箱是[有用的物品](./Items)分类中的物品。
 
 ## 获取 {#obtaining}
 
-便携垃圾箱可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+便携垃圾箱可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

@@ -1,6 +1,6 @@
 # 灵魂绑定工具 {#soulbound-tools}
 
-灵魂绑定工具是[工具](/Tools)分类中的子分类。
+灵魂绑定工具是[工具](./Tools)分类中的子分类。
 
 该分类包含：灵魂绑定镐、灵魂绑定斧、灵魂绑定铲、灵魂绑定锄。正如工具名称所示，这些工具将会在你死亡后保留在你的背包中。
 
@@ -8,7 +8,7 @@
 
 ## 另请参见 {#see-also}
 
-* [灵魂绑定武器](/Soulbound-Weapons)
-* [灵魂绑定防具](/Magical-Armor#soulbound-armor)
-* [灵魂绑定背包](/Soulbound-Backpack)
-* [灵魂绑定符文](/Ancient-Runes#soulbound-rune)
+* [灵魂绑定武器](./Soulbound-Weapons)
+* [灵魂绑定防具](./Magical-Armor#soulbound-armor)
+* [灵魂绑定背包](./Soulbound-Backpack)
+* [灵魂绑定符文](./Ancient-Runes#soulbound-rune)

@@ -1,12 +1,12 @@
 # 高级输出节点 {#advanced-output-node}
 
-输入节点是[货运管理](/Cargo-Management)系统的组成部分。它将从[输入节点](/Input-Node)接收物品。
+输入节点是[货运管理](./Cargo-Management)系统的组成部分。它将从[输入节点](./Input-Node)接收物品。
 
-它是[输出节点](/Output-Node)的升级版本，拥有更多设置，可以过滤物品。
+它是[输出节点](./Output-Node)的升级版本，拥有更多设置，可以过滤物品。
 
 ## 获取 {#obtaining}
 
-高级输出节点可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+高级输出节点可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 
@@ -14,7 +14,7 @@
 
 ### 放置 {#placement}
 
-高级输出节点必须放置在箱子或机器上（通过 *Shift+右键点击* 方块旁边），并连接到 6 格直线范围内（不能是对角线）的[货运管理器](/Cargo-Manager)或[连接器节点](/Connector-Node)。
+高级输出节点必须放置在箱子或机器上（通过 *Shift+右键点击* 方块旁边），并连接到 6 格直线范围内（不能是对角线）的[货运管理器](./Cargo-Manager)或[连接器节点](./Connector-Node)。
 
 ### 配置 {#configuration}
 

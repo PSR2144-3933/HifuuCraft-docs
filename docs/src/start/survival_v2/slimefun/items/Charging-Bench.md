@@ -1,6 +1,6 @@
 # 充电台 {#charging-bench}
 
-充电台是一种[电力机器](/Electric-Machines#machines)。它可以给物品充电。
+充电台是一种[电力机器](./Electric-Machines#machines)。它可以给物品充电。
 
 ## 等级 {#tiers}
 

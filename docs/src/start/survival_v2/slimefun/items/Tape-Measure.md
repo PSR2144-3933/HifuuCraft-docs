@@ -1,10 +1,10 @@
 # 卷尺 {#tape-measure}
 
-卷尺是[有用的物品](/Items)分类中的物品，用来测量方块之间的距离。
+卷尺是[有用的物品](./Items)分类中的物品，用来测量方块之间的距离。
 
 ## 获取 {#obtaining}
 
-卷尺可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+卷尺可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

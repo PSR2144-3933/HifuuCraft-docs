@@ -1,14 +1,14 @@
 # 岩浆发电机 {#lava-generator}
 
-岩浆发电机是一种[发电机](/Electric-Machines#energy-generation)。  
+岩浆发电机是一种[发电机](./Electric-Machines#energy-generation)。  
 
 ## 获取 {#obtaining}
 
-所有等级的岩浆发电机都可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+所有等级的岩浆发电机都可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 
-岩浆发电机必须在任意[能源调节器](/Energy-Regulator)、[能源连接器](/Energy-Connector)或[电容](/Energy-Capacitors)的 7 格以内（直线范围，不能是对角线），且提供可用的燃料后才能工作。
+岩浆发电机必须在任意[能源调节器](./Energy-Regulator)、[能源连接器](./Energy-Connector)或[电容](./Energy-Capacitors)的 7 格以内（直线范围，不能是对角线），且提供可用的燃料后才能工作。
 
 ## 等级 {#tiers}
 

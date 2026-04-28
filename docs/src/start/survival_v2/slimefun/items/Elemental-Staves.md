@@ -1,10 +1,10 @@
 # 元素法杖 {#elemental-staves}
 
-元素法杖是[魔法道具](/Magical-Gadgets)分类中的物品，一共有5种类型。
+元素法杖是[魔法道具](./Magical-Gadgets)分类中的物品，一共有5种类型。
 
 ## 获取 {#obtaining}
 
-元素法杖可以在[魔法工作台](/Magic-Workbench)中制作。
+元素法杖可以在[魔法工作台](./Magic-Workbench)中制作。
 
 ## 用途 {#usage}
 

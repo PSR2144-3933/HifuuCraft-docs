@@ -1,6 +1,6 @@
 # 吸血鬼之刀 {#blade-of-vampires}
 
-吸血鬼之刀是 Slimefun 中的一种[武器](/Weapons)。
+吸血鬼之刀是 Slimefun 中的一种[武器](./Weapons)。
 
 它是一把附魔了**火焰附加 II**、**锋利 II**与**耐久 IV** 的金剑。
 

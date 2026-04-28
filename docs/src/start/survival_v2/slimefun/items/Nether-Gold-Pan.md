@@ -1,6 +1,6 @@
 # 下界淘金盘 {#nether-gold-pan}
 
-下界淘金盘是[工具](/Tools)分类中的物品。
+下界淘金盘是[工具](./Tools)分类中的物品。
 
 ## 如何使用下界淘金盘 {#how-to-use-the-nether-gold-pan}
 
@@ -21,9 +21,9 @@
 
 ## 自动化下界淘金盘 {#automating-your-nether-gold-pan}
 
-如果你倾向于给机器提供灵魂沙，查看[自动淘金机](/Automated-Panning-Machine)。  
-如果你拥有电力，你可能也会对[电力淘金机](/Electric-Gold-Pan)感兴趣。
+如果你倾向于给机器提供灵魂沙，查看[自动淘金机](./Automated-Panning-Machine)。  
+如果你拥有电力，你可能也会对[电力淘金机](./Electric-Gold-Pan)感兴趣。
 
 ## 另请参见 {#see-also}
 
-* [淘金盘](/Gold-Pan)
+* [淘金盘](./Gold-Pan)

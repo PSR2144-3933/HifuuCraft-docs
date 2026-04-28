@@ -1,14 +1,14 @@
 # 煤发电机 {#Coal-Generator}
 
-煤发电机是一种[发电机](/Electric-Machines#energy-generation)。  
+煤发电机是一种[发电机](./Electric-Machines#energy-generation)。  
 
 ## 获取 {#obtaining}
 
-所有等级的煤发电机都可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+所有等级的煤发电机都可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 
-煤发电机必须在任意[能源调节器](/Energy-Regulator)、[能源连接器](/Energy-Connector)或[电容](/Energy-Capacitors)的 7 格以内（直线范围，不能是对角线），且提供可用的燃料后才能工作。
+煤发电机必须在任意[能源调节器](./Energy-Regulator)、[能源连接器](./Energy-Connector)或[电容](./Energy-Capacitors)的 7 格以内（直线范围，不能是对角线），且提供可用的燃料后才能工作。
 
 ## 等级 {#tiers}
 
@@ -40,4 +40,4 @@
 | 任何木门           | 3s           | 48 J           | 90 J            |
 | 任何告示牌 | 2s           | 32 J           | 60 J            |
 
-你可以将原木通过[台锯](/Table-Saw)分成更多木板，以获得双倍的燃烧时间。
+你可以将原木通过[台锯](./Table-Saw)分成更多木板，以获得双倍的燃烧时间。

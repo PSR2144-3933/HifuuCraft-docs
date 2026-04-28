@@ -1,6 +1,6 @@
 # 喷气靴 {#jet-boots}
 
-喷气靴是一种[科技工具](/Technical-Gadgets)。需要在[充电台](/Charging-Bench)中充电后才能使用。
+喷气靴是一种[科技工具](./Technical-Gadgets)。需要在[充电台](./Charging-Bench)中充电后才能使用。
 
 喷气靴使用电力进行飞行。将喷气靴放入靴子栏，然后按下Shift即可使用。
 

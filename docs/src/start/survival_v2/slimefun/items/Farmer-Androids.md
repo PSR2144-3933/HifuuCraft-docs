@@ -1,10 +1,10 @@
 # 可编程式机器人（农夫）{#farmer-androids}
 
-农夫机器人是为自动化种田而设计的[机器人](/Androids)。
+农夫机器人是为自动化种田而设计的[机器人](./Androids)。
 
 ## 获取 {#obtaining}
 
-农夫机器人可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+农夫机器人可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 
@@ -18,7 +18,7 @@
 - 甜菜根
 - 土豆
 
-机器人需要燃料才能工作，你必须给机器人准备好[指定的燃料](/Normal-Androids#power-source)。
+机器人需要燃料才能工作，你必须给机器人准备好[指定的燃料](./Normal-Androids#power-source)。
 
 ## 等级 {#tiers}
 
@@ -27,4 +27,4 @@
 | 等级 | 燃料效率 | 特殊功能                                               |
 |----|:----:|----------------------------------------------------|
 | 基础 | 1.0x | 无                                                  |
-| 高级 | 1.5x | 可以收集来自 [ExoticGarden](/Addons#official-addons) 的植物 |
+| 高级 | 1.5x | 可以收集来自 [ExoticGarden](./Addons#official-addons) 的植物 |

@@ -1,6 +1,6 @@
 # 全自动收集机 {#produce-collector}
 
-全自动收集机是一种[电力机器](/Electric-Machines#machines)。它可以收集附近动物的产物。
+全自动收集机是一种[电力机器](./Electric-Machines#machines)。它可以收集附近动物的产物。
 
 如果提供了桶，那么它可以从附近的牛收集奶桶。如果提供了碗，那么它可以从附近的哞菇收集蘑菇煲。
 

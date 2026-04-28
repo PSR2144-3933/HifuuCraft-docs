@@ -1,10 +1,10 @@
 # 可编程式机器人（屠夫）{#butcher-androids}
 
-屠夫机器人是为击杀敌对生物或动物而设计的[机器人](/Androids)。
+屠夫机器人是为击杀敌对生物或动物而设计的[机器人](./Androids)。
 
 ## 获取 {#obtaining}
 
-屠夫机器人可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+屠夫机器人可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 
@@ -15,9 +15,9 @@
 - 击杀成年动物
 - 击杀动物
 
-可以与[经验收集器](/EXP-Collector)一起成为经验农场的一部分。
+可以与[经验收集器](./EXP-Collector)一起成为经验农场的一部分。
 
-机器人需要燃料才能工作，你必须给机器人准备好[指定的燃料](/Normal-Androids#power-source)。
+机器人需要燃料才能工作，你必须给机器人准备好[指定的燃料](./Normal-Androids#power-source)。
 
 ## 等级 {#tiers}
 

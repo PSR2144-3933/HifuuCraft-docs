@@ -1,6 +1,6 @@
 # 碳压机 {#carbon-press}
 
-碳压机是一种[电力机器](/Electric-Machines#machines)。它可以用来合成大部分与[碳](/Carbon)有关的物品。
+碳压机是一种[电力机器](./Electric-Machines#machines)。它可以用来合成大部分与[碳](./Carbon)有关的物品。
 
 ## 等级 {#carbon-press-tiers}
 

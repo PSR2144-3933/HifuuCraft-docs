@@ -1,6 +1,6 @@
 # 处决之剑 {#sword-of-beheading}
 
-处决之剑是 Slimefun 中的一种[武器](/Weapons)。
+处决之剑是 Slimefun 中的一种[武器](./Weapons)。
 
 它是一把附魔了*斩首 II* 的铁剑，可以在击杀玩家或怪物时增加头颅的掉落率。
 
@@ -22,4 +22,4 @@
 | 僵尸          | 40%         |
 | 凋灵骷髅   | 25%         |
 
-如果你安装了 [ExtraHeads](/Addons#official-addons) 附属，你也可以增加从其他怪物身上获取头颅的概率。
+如果你安装了 [ExtraHeads](./Addons#official-addons) 附属，你也可以增加从其他怪物身上获取头颅的概率。

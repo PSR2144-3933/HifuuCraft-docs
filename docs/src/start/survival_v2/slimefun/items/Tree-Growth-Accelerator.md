@@ -1,6 +1,6 @@
 # 树木生长加速器 {#tree-growth-accelerator}
 
-树木生长加速器是一种[电力机器](/Electric-Machines#machines)。它可以加速附近树苗的生长。  
+树木生长加速器是一种[电力机器](./Electric-Machines#machines)。它可以加速附近树苗的生长。  
 这是一个游戏后期机器，可用于建造树厂。
 
 ## 等级 {#tiers}

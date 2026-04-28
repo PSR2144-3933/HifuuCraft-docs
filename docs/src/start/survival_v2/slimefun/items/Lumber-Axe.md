@@ -1,12 +1,12 @@
 # 伐木斧 {#lumber-axe}
 
-伐木斧是 Slimefun 的[工具](/Tools)之一。
+伐木斧是 Slimefun 的[工具](./Tools)之一。
 
 它是一把钻石斧，允许你一次性砍倒一整棵树。
 
 ## 获取 {#obtaining}
 
-伐木斧可以在[魔法工作台](/Magic-Workbench)中制作。
+伐木斧可以在[魔法工作台](./Magic-Workbench)中制作。
 
 ## 使用 {#usage}
 

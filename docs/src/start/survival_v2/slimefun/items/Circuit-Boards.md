@@ -1,6 +1,6 @@
 # 电路板 {#circuit-boards}
 
-电路板是[科技零件](/Technical-Components)分类中的物品。
+电路板是[科技零件](./Technical-Components)分类中的物品。
 
 ## 获取 {#obtaining}
 
@@ -10,4 +10,4 @@
 
 ### 高级电路板 {#advanced-circuit-board}
 
-高级电路板可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+高级电路板可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。

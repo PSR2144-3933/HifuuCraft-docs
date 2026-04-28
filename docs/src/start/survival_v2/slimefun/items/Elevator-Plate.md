@@ -1,10 +1,10 @@
 # 电梯板 {#elevator-plate}
 
-电梯板是 [GPS](/GPS) 分类中的可放置工具之一。
+电梯板是 [GPS](./GPS) 分类中的可放置工具之一。
 
 ## 获取 {#obtaining}
 
-电梯板可以在[增强型工作台](/Enhanced-Crafting-Table)中制作。
+电梯板可以在[增强型工作台](./Enhanced-Crafting-Table)中制作。
 
 ## 使用 {#usage}
 

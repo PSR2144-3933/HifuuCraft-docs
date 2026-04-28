@@ -1,8 +1,8 @@
 # 自动铁砧 {#auto-anvil}
 
-自动铁砧是一种[电力机器](/Electric-Machines#machines)。它可以修复你的武器、工具以及防具（在铁砧中无法进行修复时）。
+自动铁砧是一种[电力机器](./Electric-Machines#machines)。它可以修复你的武器、工具以及防具（在铁砧中无法进行修复时）。
 
-需要同时提供[强力胶布](/Miscellaneous-Items)才能进行修复，修复的速度取决于机器等级。
+需要同时提供[强力胶布](./Miscellaneous-Items)才能进行修复，修复的速度取决于机器等级。
 
 ## 等级 {#auto-anvil-tiers}
 

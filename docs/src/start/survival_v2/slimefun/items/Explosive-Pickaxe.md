@@ -1,12 +1,12 @@
 # 爆炸镐 {#explosive-pickaxe}
 
-爆炸镐是 Slimefun 的[工具](/Tools)之一。
+爆炸镐是 Slimefun 的[工具](./Tools)之一。
 
 它是一把未附魔的钻石镐，可以一次性快速破坏多个方块。
 
 ## 获取 {#obtaining}
 
-爆炸镐可以在[魔法工作台](/Magic-Workbench)中制作。
+爆炸镐可以在[魔法工作台](./Magic-Workbench)中制作。
 
 ## 使用 {#usage}
 
@@ -16,4 +16,4 @@
 
 ## 另请参见 {#see-also}
 
-* [爆炸铲](/Explosive-Shovel)
+* [爆炸铲](./Explosive-Shovel)

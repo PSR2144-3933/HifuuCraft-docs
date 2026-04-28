@@ -1,6 +1,6 @@
 # 彩虹方块 {#rainbow-blocks}
 
-以下是所有可以合成的非[节日物品](/Seasonal-Categories):
+以下是所有可以合成的非[节日物品](./Seasonal-Categories):
 
 - 彩虹羊毛
 - 彩虹玻璃
@@ -11,9 +11,9 @@
 
 ## 获取 {#obtaining}
 
-这些物品可以在[魔法道具](/Magical-Gadgets)分类中找到。你可以在游戏内查看具体配方。
+这些物品可以在[魔法道具](./Magical-Gadgets)分类中找到。你可以在游戏内查看具体配方。
 
-值得注意的是，部分[节日物品](/Seasonal-Categories)包含彩虹方块的变种（例如：万圣节彩虹方块）。
+值得注意的是，部分[节日物品](./Seasonal-Categories)包含彩虹方块的变种（例如：万圣节彩虹方块）。
 
 ## 使用 {#usage--specifications}
 

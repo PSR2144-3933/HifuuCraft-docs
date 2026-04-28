@@ -1,6 +1,6 @@
 # 凋灵装配机 {#wither-assembler}
 
-凋灵装配机是一种[电力机器](/Electric-Machines#machines)。它可以全自动组装凋灵。  
+凋灵装配机是一种[电力机器](./Electric-Machines#machines)。它可以全自动组装凋灵。  
 这是一个游戏后期机器，使用时应小心谨慎。
 
 ## 等级 {#tiers}
