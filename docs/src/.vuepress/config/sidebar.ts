@@ -3,12 +3,14 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   '/start': [
     {
-      text: '服务器介绍',
+      text: '开始',
       icon: 'signs-post',
-      children: [
-        '/start/help.md',
-        '/start/plugin/skinsrestorer.md'
-      ]
+      link: '/start/',
+    },
+    {
+      text: '入门指南',
+      icon: 'lightbulb',
+      link: '/start/help.md',
     },
     {
       text: '常见问题',

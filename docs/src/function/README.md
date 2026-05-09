@@ -47,7 +47,7 @@
 
 ### 3. /skin set
 
-<sup>主条目：[SkinsRestorer](../start/plugin/skinsrestorer.md)</sup>
+<sup>主条目：[设置皮肤](../start/FAQ/#设置皮肤)</sup>
 
 你的正版名字 要是你之前的离线账号登录，换成正版账号登录后可能出现皮肤不刷新问题，可以使用后该指令刷新皮肤
 （在子服中使用可能导致断开连接并且回到大厅）

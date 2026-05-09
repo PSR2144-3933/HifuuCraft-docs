@@ -2,7 +2,7 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   {
-    text: '开始',
+    text: '主页',
     icon: 'signs-post',
     link: '/start/',
   },
