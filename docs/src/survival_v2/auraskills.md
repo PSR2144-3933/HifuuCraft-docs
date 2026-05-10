@@ -6,4 +6,4 @@
 
 ## 参考资料
 
-1. <https://wiki.aurelium.dev/>（英文）
+1. <https://wiki.aurelium.dev/auraskills/>（英文）

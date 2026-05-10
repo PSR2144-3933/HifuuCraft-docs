@@ -1,6 +1,50 @@
-# 主页
+# 主页 {#home}
 
-这里是粘液科技 Wiki 主页。
+欢迎来到粘液科技！
+粘液科技提供了远远超过 400 种物品和方块，其中包括：
+
+* 背包
+* 核反应堆
+* 魔法祭坛、符文和法杖
+* 物品传输系统
+* 电力网络
+* 电力机器
+* 可编程式机器人 (挖矿机器人)
+* 全息文字投影仪
+* 爆炸镐
+* 还有很多很多很多……
+
+## 总览 {#overview}
+
+* [什么是 Slimefun?](/Slimefun-in-a-nutshell)
+* [如何安装 Slimefun](/Installing-Slimefun)
+* [Slimefun4 的附属插件](/Addons)
+* [入门](/Getting-Started)
+* [权限](/Permissions) & [指令](/Commands)
+* [FAQ](/FAQ)
+* [常见问题](/Common-Issues)
+
+## 内容 / 物品分类 {#content-item-categories}
+
+* [武器](./items/Weapons)
+* [有用的物品](./items/Items)
+* [基础机器](./items/Basic-Machines)
+* [工具](./items/Tools)
+* [资源](./items/Resources)
+* [食物](./items/Food)
+* [魔法物品](./items/Magical-Items)
+* [魔法防具](./items/Magical-Armor)
+* [科技零件](./items/Technical-Components)
+* [杂项用品](./items/Miscellaneous-Items)
+* [防具](./items/Armor)
+* [护身符](./items/Talismans)
+* [魔法道具](./items/Magical-Gadgets)
+* [科技工具](./items/Technical-Gadgets)
+* [能源与电力](./items/Electric-Machines)
+* [GPS](./items/GPS)
+* [可编程式机器人](./items/Androids)
+* [货运管理](./items/Cargo-Management)
+* [节日物品](./items/Seasonal-Categories)
 
 ## 导航栏
 
@@ -8,7 +52,7 @@
 
 ## 致谢
 
-本目录下的页面基于 [中文 Slimefun Wiki](https://slimefun-wiki.guizhanss.cn/) 的内容改编。
+本目录下的页面基于 [中文 Slimefun Wiki](https://slimefun-wiki.guizhanss.cn/) 的内容。
 
 原作者：ybw0014  
 原始内容依据 [CC BY-NC-SA 4.0 许可](https://creativecommons.org/licenses/by-nc-sa/4.0/) 发布。  
