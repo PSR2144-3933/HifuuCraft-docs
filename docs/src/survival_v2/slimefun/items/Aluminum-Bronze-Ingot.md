@@ -1,6 +1,6 @@
 # 铝青铜锭 {#aluminum-bronze-ingot}
 
-铝青铜锭是 Slimefun 中的一种[合金](./Ingots#alloys)。
+铝青铜锭是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

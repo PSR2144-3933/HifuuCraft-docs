@@ -1,6 +1,6 @@
 # 钚 {#plutonium}
 
-钚是 Slimefun 中的一种[资源](./Resources)，可用于合成更高辐射等级的放射性燃料。
+钚是粘液科技中的一种[资源](./Resources)，可用于合成更高辐射等级的放射性燃料。
 
 ## 获取 {#obtaining}
 

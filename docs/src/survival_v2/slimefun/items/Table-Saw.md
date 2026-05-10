@@ -8,7 +8,7 @@
 
 ## 如何建造台锯 {#how-to-build-a-table-saw}
 
-台锯的建造方法可以在 Slimefun 指南中找到。这是台锯的完整构造：
+台锯的建造方法可以在粘液科技指南中找到。这是台锯的完整构造：
 
 ![建造台锯](https://fastly.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-table-saw.png)
 

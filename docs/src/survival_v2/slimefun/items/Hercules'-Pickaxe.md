@@ -1,6 +1,6 @@
 # 赫拉克勒斯之镐 {#hercules-pickaxe}
 
-赫拉克勒斯之镐是 Slimefun 的[工具](./Tools)之一。
+赫拉克勒斯之镐是粘液科技的[工具](./Tools)之一。
 
 ## 获取 {#obtaining}
 

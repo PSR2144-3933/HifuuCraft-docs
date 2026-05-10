@@ -1,6 +1,6 @@
 # 镁锭 {#magnesium-ingot}
 
-镁锭是 Slimefun 中新增的一种[锭](./Ingots)。  
+镁锭是粘液科技中新增的一种[锭](./Ingots)。  
 
 ## 获取 {#obtaining}
 

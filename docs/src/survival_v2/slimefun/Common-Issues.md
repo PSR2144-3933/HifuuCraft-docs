@@ -11,7 +11,7 @@
 
 ## 全息投影标签遗留 {#floating-tags}
 
-某些 Slimefun 物品会在被放置后自动创建全息投影标签，特别是[能量调节器](/Energy-Regulator)和[货运管理器](/Cargo-Manager)。  
+某些粘液科技物品会在被放置后自动创建全息投影标签，特别是[能量调节器](/Energy-Regulator)和[货运管理器](/Cargo-Manager)。  
 这些标签应该会在破坏机器后消失。但有时候会出现问题，导致部分全息投影依然存留在世界中。该如何解决这个问题呢?
 
 :::info
@@ -55,7 +55,7 @@
 ## 无法放置的方块 {#unplaceable-blocks}
 
 如果一在某个空的位置尝试放置方块，但放置动作被终止，这说明这可能是个幽灵方块。  
-这意味着这里曾经有 Slimefun 物品被放置于此处（通常是[机器人](/Androids)或[货运管理器](/Cargo-Management)等玩家头类型的物品），但此处方块的数据没有被正确移除。
+这意味着这里曾经有粘液科技物品被放置于此处（通常是[机器人](/Androids)或[货运管理器](/Cargo-Management)等玩家头类型的物品），但此处方块的数据没有被正确移除。
 
 ### 如何修复（单个方块） {#hhow-to-fix-this-isolated-block}
 
@@ -71,7 +71,7 @@
 
 :::info 可选项
 
-使用 Shift + 右键 在幽灵方块的位置放置一个占位符方块，然后尝试破坏它。如果有代表 Slimefun 物品的玩家头掉落，则该位置确实有幽灵方块（然而，没有掉落并不说明此处不是幽灵方块，因为 Slimefun 物品可能是一个完整的方块，而不是一个玩家头，但这种情况的可能性并不大）。
+使用 Shift + 右键 在幽灵方块的位置放置一个占位符方块，然后尝试破坏它。如果有代表粘液科技物品的玩家头掉落，则该位置确实有幽灵方块（然而，没有掉落并不说明此处不是幽灵方块，因为粘液科技物品可能是一个完整的方块，而不是一个玩家头，但这种情况的可能性并不大）。
 
 :::
 
@@ -109,7 +109,7 @@
 
 :::info
 
-关于这一点，我们并没有一个已确认支持 Slimefun 的自定义生物插件列表。如果你使用的插件没有任何问题，你可以将插件名称告诉我们。详见[扩充 Wiki](/Expanding-the-Wiki)。
+关于这一点，我们并没有一个已确认支持粘液科技的自定义生物插件列表。如果你使用的插件没有任何问题，你可以将插件名称告诉我们。详见[扩充 Wiki](/Expanding-the-Wiki)。
 
 :::
 
@@ -118,7 +118,7 @@
 在 Windows 系统中，如果你遇到了以下错误:
 
 ```shell
-An Error occurred while copying a temporary File for Slimefun DEV x
+An Error occurred while copying a temporary File for粘液科技DEV x
 AccessDeniedException：data-storage/Slimefun/stored-blocks/world/BLOCK.sfb.tmp -> data-storage/Slimefun/stored-blocks/world/BLOCK.sfb
 ```
 

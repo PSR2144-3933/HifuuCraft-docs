@@ -1,6 +1,6 @@
 # 结晶 {#lumps}
 
-在 Slimefun 中有两种结晶：魔法结晶与末影结晶。它们用于合成[魔法物品](./Magical-Items)与[魔法道具](./Magical-Gadgets)中的物品。
+在粘液科技中有两种结晶：魔法结晶与末影结晶。它们用于合成[魔法物品](./Magical-Items)与[魔法道具](./Magical-Gadgets)中的物品。
 
 ## 获取 {#obtaining}
 

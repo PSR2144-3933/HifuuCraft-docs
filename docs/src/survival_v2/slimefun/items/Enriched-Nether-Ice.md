@@ -1,6 +1,6 @@
 # 浓缩下界冰 {#enriched-nether-ice}
 
-浓缩下界冰是 Slimefun 中的一种[资源](./Resources)，可用于合成[下界冰冷却剂](./Coolant-Cells)。
+浓缩下界冰是粘液科技中的一种[资源](./Resources)，可用于合成[下界冰冷却剂](./Coolant-Cells)。
 
 ## 获取 {#obtaining}
 

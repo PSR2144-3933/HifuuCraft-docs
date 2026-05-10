@@ -1,6 +1,6 @@
 # 钴锭 {#cobalt-ingot}
 
-钴锭是 Slimefun 中的一种[合金](./Ingots#alloys)。
+钴锭是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

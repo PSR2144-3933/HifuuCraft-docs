@@ -1,6 +1,6 @@
 # 硬铝锭 {#duralumin-ingot}
 
-硬铝锭是 Slimefun 中的一种[合金](./Ingots#alloys)。
+硬铝锭是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

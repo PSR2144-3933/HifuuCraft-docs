@@ -1,6 +1,6 @@
 # 下界冰 {#nether-ice}
 
-下界冰是 Slimefun 中的一种[资源](./Resources)，可用于合成[浓缩下界冰](./Enriched-Nether-Ice)。
+下界冰是粘液科技中的一种[资源](./Resources)，可用于合成[浓缩下界冰](./Enriched-Nether-Ice)。
 
 ## 获取 {#obtaining}
 

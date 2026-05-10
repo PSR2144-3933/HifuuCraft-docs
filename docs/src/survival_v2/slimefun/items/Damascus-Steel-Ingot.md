@@ -1,6 +1,6 @@
 # 大马士革钢锭 {#damascus-steel-ingot}
 
-大马士革钢锭是 Slimefun 中的一种[合金](./Ingots#alloys)。
+大马士革钢锭是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

@@ -1,6 +1,6 @@
 # 压力机 {#pressure-chamber}
 
-压力机（Pressure Chamber）是 Slimefun 的[基础机器](./Basic-Machines)之一。它是多方块结构。
+压力机（Pressure Chamber）是粘液科技的[基础机器](./Basic-Machines)之一。它是多方块结构。
 
 ## 建造 {#obtaining}
 
@@ -14,6 +14,6 @@
 
 ## 使用 {#usage}
 
-压力机是用来向物品施加压力的。查看 Slimefun 指南获取可用的配方。
+压力机是用来向物品施加压力的。查看粘液科技指南获取可用的配方。
 
 要使用压力机，你需要在发射器内按照配方放置物品，然后右键点击炼药锅。过一会，物品就会被压好了。

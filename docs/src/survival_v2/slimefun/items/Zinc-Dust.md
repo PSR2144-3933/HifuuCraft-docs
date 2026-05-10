@@ -1,6 +1,6 @@
 # 锌粉 {#zinc-dust}
 
-锌粉是 Slimefun 中的 9 种[矿粉](./Dusts)之一。
+锌粉是粘液科技中的 9 种[矿粉](./Dusts)之一。
 
 ## 获取 {#obtaining}
 

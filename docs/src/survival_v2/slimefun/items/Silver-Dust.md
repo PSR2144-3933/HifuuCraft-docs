@@ -1,6 +1,6 @@
 # 银粉 {#silver-dust}
 
-银粉是 Slimefun 中的 9 种[矿粉](./Dusts)之一。
+银粉是粘液科技中的 9 种[矿粉](./Dusts)之一。
 
 ## 获取 {#obtaining}
 

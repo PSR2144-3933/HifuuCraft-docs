@@ -1,6 +1,6 @@
 # 杂项用品 {#miscellaneous-items}
 
-杂项用品分类包含所有不属于其它分类的 Slimefun 物品。
+杂项用品分类包含所有不属于其它分类的粘液科技物品。
 
 ## 目录 {#table-of-contents}
 

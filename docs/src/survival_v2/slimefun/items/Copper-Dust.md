@@ -1,6 +1,6 @@
 # 铜粉 {#copper-dust}
 
-铜粉是 Slimefun 中的 9 种[矿粉](./Dusts)之一。
+铜粉是粘液科技中的 9 种[矿粉](./Dusts)之一。
 
 ## 获取 {#obtaining}
 

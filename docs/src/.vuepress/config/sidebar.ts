@@ -65,7 +65,7 @@ export default sidebar({
       collapsible: true,
       children: [
         "dominion.md",
-        "aurelium.md",
+        "auraskills.md",
         {
           text: '粘液科技',
           link: "slimefun/",

@@ -1,6 +1,6 @@
 # 起泡锭 {#blistering-ingots}
 
-起泡锭是 Slimefun 中的一种[资源](./Resources)，可用于合成[反应堆](./Reactors)相关物品以及部分[游戏后期机器](./Electric-Machines)。
+起泡锭是粘液科技中的一种[资源](./Resources)，可用于合成[反应堆](./Reactors)相关物品以及部分[游戏后期机器](./Electric-Machines)。
 
 ## 获取 {#obtaining}
 

@@ -1,6 +1,6 @@
 # 科林斯青铜锭 {#corinthian-bronze-ingot}
 
-科林斯青铜锭是 Slimefun 中的一种[合金](./Ingots#alloys)。
+科林斯青铜锭是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

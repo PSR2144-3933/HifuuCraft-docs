@@ -1,6 +1,6 @@
 # 铜锭 {#copper-ingot}
 
-铜锭是 Slimefun 中新增的一种[锭](./Ingots)。  
+铜锭是粘液科技中新增的一种[锭](./Ingots)。  
 Slimefun 中的铜锭并非 Minecraft 1.17 版本中新增的铜锭。它们不能相互替代。
 
 ## 获取 {#obtaining}

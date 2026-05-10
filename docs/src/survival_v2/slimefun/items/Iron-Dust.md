@@ -1,6 +1,6 @@
 # 铁粉 {#iron-dust}
 
-铁粉是 Slimefun 中的 9 种[矿粉](./Dusts)之一。
+铁粉是粘液科技中的 9 种[矿粉](./Dusts)之一。
 
 ## 获取 {#obtaining}
 

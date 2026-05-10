@@ -1,6 +1,6 @@
 # 人造蓝宝石 {#synthetic-sapphire}
 
-人造蓝宝石是 Slimefun 中的一种[资源](./Resources)，可用于合成许多其他的物品。
+人造蓝宝石是粘液科技中的一种[资源](./Resources)，可用于合成许多其他的物品。
 
 ## 获取 {#obtaining}
 

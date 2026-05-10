@@ -1,6 +1,6 @@
 # 铅锭 {#lead-ingot}
 
-铅锭是 Slimefun 中新增的一种[锭](./Ingots)。  
+铅锭是粘液科技中新增的一种[锭](./Ingots)。  
 
 ## 获取 {#obtaining}
 

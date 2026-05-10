@@ -1,6 +1,6 @@
 # 钢锭 {#steel-ingot}
 
-钢锭是 Slimefun 中的一种[合金](./Ingots#alloys)。
+钢锭是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

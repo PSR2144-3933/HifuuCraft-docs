@@ -1,6 +1,6 @@
 # 铀 {#uranium}
 
-铀是 Slimefun 中的一种[资源](./Resources)，可用于给[核反应堆](./Reactors)提供燃料，或合成更高辐射等级的放射性燃料。
+铀是粘液科技中的一种[资源](./Resources)，可用于给[核反应堆](./Reactors)提供燃料，或合成更高辐射等级的放射性燃料。
 
 ## 获取 {#obtaining}
 

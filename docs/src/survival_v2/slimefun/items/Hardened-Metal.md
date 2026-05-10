@@ -1,6 +1,6 @@
 # 硬化金属 {#Hardened-Metal}
 
-硬化金属是 Slimefun 中的一种[合金](./Ingots#alloys)。
+硬化金属是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

@@ -1,6 +1,6 @@
 # 磨石 {#grind-stone}
 
-磨石（Grind Stone）是 Slimefun 的[基础机器](./Basic-Machines)之一。它是多方块结构。
+磨石（Grind Stone）是粘液科技的[基础机器](./Basic-Machines)之一。它是多方块结构。
 
 ## 建造 {#obtaining}
 

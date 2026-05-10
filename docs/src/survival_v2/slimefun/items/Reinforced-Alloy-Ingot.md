@@ -1,6 +1,6 @@
 # 强化合金锭 {#reinforced-alloy-ingot}
 
-强化合金锭是 Slimefun 中的一种[合金](./Ingots#alloys)。
+强化合金锭是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

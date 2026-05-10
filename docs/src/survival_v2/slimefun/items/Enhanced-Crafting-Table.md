@@ -1,12 +1,12 @@
 # 增强型工作台 {#enhanced-crafting-table}
 
-增强型工作台（Enhanced Crafting Table）是 Slimefun 中必不可少的[基础机器](./Basic-Machines)。
+增强型工作台（Enhanced Crafting Table）是粘液科技中必不可少的[基础机器](./Basic-Machines)。
 
-它会被用来合成许多 Slimefun 物品，无论是最简单的还是最复杂的。
+它会被用来合成许多粘液科技物品，无论是最简单的还是最复杂的。
 
 ## 建造 {#how-to-build-an-enhanced-crafting-table}
 
-你可以在 Slimefun 指南中找到配方。要想建造它，你需要在一个发射器上方放置一个工作台。
+你可以在粘液科技指南中找到配方。要想建造它，你需要在一个发射器上方放置一个工作台。
 
 一个完整的增强型工作台看起来像这样：
 

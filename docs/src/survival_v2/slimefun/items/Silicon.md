@@ -1,6 +1,6 @@
 # 硅 {#silicon}
 
-硅是 Slimefun 中的一种[资源](./Resources)，可用于合成许多其他物品。
+硅是粘液科技中的一种[资源](./Resources)，可用于合成许多其他物品。
 
 ## 获取 {#obtaining}
 

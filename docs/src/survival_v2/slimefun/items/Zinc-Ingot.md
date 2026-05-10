@@ -1,6 +1,6 @@
 # 锌锭 {#zinc-ingot}
 
-锌锭是 Slimefun 中新增的一种[锭](./Ingots)。  
+锌锭是粘液科技中新增的一种[锭](./Ingots)。  
 
 ## 获取 {#obtaining}
 

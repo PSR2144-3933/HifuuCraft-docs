@@ -1,6 +1,6 @@
 # 焊锡锭 {#solder-ingot}
 
-焊锡锭是 Slimefun 中的一种[合金](./Ingots#alloys)。
+焊锡锭是粘液科技中的一种[合金](./Ingots#alloys)。
 
 ## 获取 {#obtaining}
 

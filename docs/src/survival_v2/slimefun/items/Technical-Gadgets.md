@@ -1,6 +1,6 @@
 # 科技工具 {#technical-gadgets}
 
-科技工具分类中包含了一系列在游玩 Slimefun 时有用的工具。
+科技工具分类中包含了一系列在游玩粘液科技时有用的工具。
 
 ## 内容 {#table-of-contents}
 
