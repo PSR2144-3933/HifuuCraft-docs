@@ -47,3 +47,9 @@ pnpm docs:dev
 HifuuCraft-docs 采用 [知识共享 署名-相同方式共享 4.0 国际 许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
 
 HifuuCraft-docs is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[![CC-BY-NC-SA-4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+HifuuCraft-docs 中描述了 Minecraft 1.21 Slimefun 以及其附属的部分依据上游原始项目采用 [知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
+
+Sections of HifuuCraft-docs describing Slimefun and its addons for Minecraft 1.21 are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) due to upstream licensing.

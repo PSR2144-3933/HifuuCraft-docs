@@ -3,45 +3,19 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   '/start': [
     {
-      text: '服务器介绍',
+      text: '开始',
       icon: 'signs-post',
       link: '/start/',
-      children: [
-        '/start/help.md',
-        '/start/plugin/skinsrestorer.md'
-      ]
     },
     {
-      text: '1.12生存',
+      text: '入门指南',
       icon: 'lightbulb',
-      link: "/start/survival_old/",
-      prefix: "/start/survival_old/",
-      collapsible: true,
-      children: [
-        'mcmmo.md',
-        'slimefun.md',
-      ]
+      link: '/start/help.md',
     },
     {
-      text: '1.21空岛',
-      icon: 'cubes',
-      link: "/start/skyblock/",
-      prefix: "/start/skyblock/",
-      collapsible: true,
-      children: [
-        "enchantment/index.md",
-      ]
-    },
-    {
-      text: "1.21生存",
-      icon: "flask-vial",
-      link: "/start/survival_new/",
-      prefix: "/start/survival_new/",
-      collapsible: true,
-      children: [
-        "dominion.md",
-        "aurelium.md",
-      ]
+      text: '常见问题',
+      icon: 'circle-question',
+      link: '/start/FAQ/',
     },
     // {
     //   text: '更新日志',
@@ -54,6 +28,52 @@ export default sidebar({
       link: '/about/',
     },
   ],
+
+  '/survival_v1': [
+    {
+      text: '1.12生存',
+      icon: 'lightbulb',
+      link: '/survival_v1/',
+      prefix: '/survival_v1/',
+      collapsible: true,
+      children: [
+        'mcmmo.md',
+        'slimefun.md',
+      ]
+    },
+  ],
+
+  '/skyblock': [
+    {
+      text: '1.21空岛',
+      icon: 'cubes',
+      link: "/skyblock/",
+      prefix: "/skyblock/",
+      collapsible: true,
+      children: [
+        "enchantment/index.md",
+      ]
+    },
+  ],
+
+  '/survival_v2': [
+    {
+      text: "1.21生存",
+      icon: "flask-vial",
+      link: "/survival_v2/",
+      prefix: "/survival_v2/",
+      collapsible: true,
+      children: [
+        "dominion.md",
+        "auraskills.md",
+        {
+          text: '粘液科技',
+          link: "slimefun/",
+        },
+      ],
+    },
+  ],
+
   '/about': [
     {
       text: '贡献指南',
@@ -69,5 +89,26 @@ export default sidebar({
       collapsible: false,
       link: '/about/sponsor.html',
     },
+  ],
+
+  '/survival_v2/slimefun': [
+    {
+      text: "← 回到1.21生存主目录",
+      link: "/survival_v2/",
+      collapsible: false,
+      prefix: "/survival_v2/slimefun/",
+    },
+
+    '',
+    {
+      text: "总览",
+      children: [
+        'Getting-Started.md',
+        'Commands.md',
+        'Common-Issues.md',
+      ]
+    },
+    'catalog.md'
+
   ],
 });

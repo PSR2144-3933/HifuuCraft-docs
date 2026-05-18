@@ -11,7 +11,7 @@ icon: signs-post
 
 云梦都是一个minecraft服务器，始于2017
 
-![主城图片](./image/ymd-main-city.webp)
+![主城图片](../image/ymd-main-city.webp)
 
 ## 玩法说明
 
@@ -42,18 +42,18 @@ ___
 
 ### 1.12.2生存
 
-<sup>主条目：[1.12.2生存服](./survival_old/readme.md)</sup>
+<sup>主条目：[1.12.2生存服](../survival_v1/readme.md)</sup>
 
-![1.12主城](./image/ymd-1.12-main-city.webp )
+![1.12主城](../image/ymd-1.12-main-city.webp )
 
 - 最早开设的一个玩法之一，**直到今年已经开设了8年**，拥有玩法插件**粘液科技**
 - 拥有大量老登遗迹，可以前来考古
 
 ### 1.21.11空岛
 
-<sup>主条目：[1.21空岛服](./skyblock/readme.md)</sup>
+<sup>主条目：[1.21空岛服](../skyblock/readme.md)</sup>
 
-![樱花小院](./image/cherry%20blossom%20house.webp)
+![樱花小院](../image/cherry%20blossom%20house.webp)
 
 - 与1.12生存相反，空岛更加偏向原版，在原版基础上使用插件增加了一些装饰品
 
@@ -65,7 +65,7 @@ ___
     <p style="margin:6px 0 0 0;">拥有700+全新方块，每种都不重样<br>风格多种多样任你随心搭配<br>从庭院到神社，从人里到红魔馆<br>每一处都能布置出独特氛围</p>
   </div>
 
-  <img src="./image/blocks-more-edit.jpg" style="width:65%; height:auto; display:block;" alt="方块预览">
+  <img src="../image/blocks-more-edit.jpg" style="width:65%; height:auto; display:block;" alt="方块预览">
 </div>
 
 ___
@@ -78,7 +78,7 @@ ___
     <p style="margin:6px 0 0 0;">附魔台现在会给予更多更强力的附魔，让你的工具更加强大！</p>
   </div>
 
-  <img src="./image/enchantments.webp" style="width:68%; height:auto; display:block;" alt="附魔">
+  <img src="../image/enchantments.webp" style="width:68%; height:auto; display:block;" alt="附魔">
 </div>
 
 ___
